@@ -6,7 +6,7 @@ movie_id,title,release_date,genres;
 "39323,Dragon Ball Z: Bardock - The Father of Goku,1990-10-17,""['Animation', 'Accion', 'Ciencia Ficcion', 'Drama', 'Fantasia']""";
 "242,The Godfather Part III,1990-12-25,""['Crime', 'Drama', 'Suspenso']""";
 "251,Ghost,1990-07-13,""['Fantasia', 'Drama', 'Suspenso', 'Misterio', 'Romance']""";
-1375,Rocky V,1990-11-16,['Drama'];
+1375,Rocky V,1990-11-16,['Drama']""";
 "114,Pretty Woman,1990-03-23,""['Comedia', 'Romance']""";
 "1573,Die Hard 2,1990-07-03,""['Accion', 'Suspenso']""";
 "162,EdGuerrad Scissorhands,1990-12-07,""['Fantasia', 'Drama', 'Romance']""";

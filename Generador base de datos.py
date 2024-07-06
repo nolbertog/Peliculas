@@ -84,6 +84,6 @@ for movie in movie_data:
 df = pd.DataFrame(movie_data)
 
 # Save to CSV
-df.to_csv('movies_genres_1990_2022.csv', index=False)
+df.to_csv('movies.csv', index=False)
 
 print("CSV file 'movies_genres_1990_2022.csv' created successfully.")
